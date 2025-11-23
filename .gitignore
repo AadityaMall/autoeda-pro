@@ -9,8 +9,8 @@ __pycache__/
 .streamlit/secrets.toml
 
 # Reports and models
-reports/*.pdf
-reports/*.html
+reports/
+
 models/*.pkl
 
 data_raw/
