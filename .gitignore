@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Reports and models
+reports/*.pdf
+reports/*.html
+models/*.pkl
+
+# Jupyter checkpoints
+.notebooks_checkpoints/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
